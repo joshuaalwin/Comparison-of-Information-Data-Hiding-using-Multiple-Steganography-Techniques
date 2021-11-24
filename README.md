@@ -13,7 +13,6 @@ pip3 install -r requirements.txt
 
 ```py
 stego.py [-h] [-d] [-a] -i FILE [-o FILE] [-s STRING] [-f FILE]
-```
 
 Stego: DCT and LSB Image Steganography
 
@@ -25,5 +24,6 @@ optional arguments:
   -o FILE     Specify output file name (optional)
   -s STRING   Specify message to encrypt
   -f FILE     Specify text file containing message
+```
 
 
